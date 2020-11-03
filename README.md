@@ -10,7 +10,7 @@
 
 <img src="https://www.hackerearth.com/community-hackathons/wp-content/themes/hacker-earth/assets/images/logo/he-header-logo.svg" width="300" height="90" />
 
-## [Hackerearth](/hackerearth)
+## [Hackerearth](/Hackerearth)
 
 ### Code Editor Recommendation
 

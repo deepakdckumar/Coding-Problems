@@ -9,6 +9,8 @@ public class Substring {
 		for(int i = start; i < end; i++) {
 			System.out.print(text.charAt(i));
 		}
+        //Using substring method
+        //System.out.println(text.substring(start,end));
 		scan.close();
 	}
 }
